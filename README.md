@@ -61,10 +61,9 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="telegram logo"  />
 </div>
 
+## 📊 GitHub Status
 ###
-
-###
-
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArielVorpagel/ArielVorpagel/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArielVorpagel/ArielVorpagel/output/pacman-contribution-graph.svg">
