@@ -24,7 +24,8 @@
 - 🔧 **Versionamento com Git & GitHub**  
 - 🗄️ **DTO e persistência em bancos de dados SQL e Relacionais**  
 - 🏗️ **Arquiteturas em camadas (MVC)**  
-- 🌐 **Padrões REST & RESTful APIs**  
+- 🌐 **Padrões REST & RESTful APIs**
+- 📬 **Testes e integração de APIs com Postman** 
 - 🛠️ **Testes unitários e integração (JUnit, Mockito)**  
 - 📦 **Gerenciamento de dependências (Maven, Gradle)**  
 - 🔒 **Conceitos de segurança em aplicações (JWT, OAuth2)**  
