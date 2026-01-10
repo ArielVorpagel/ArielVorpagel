@@ -16,12 +16,21 @@
 
 <p align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com foco em back-end e aspirante a fullstack developer. Tenho interesse em construir soluções eficientes e escaláveis, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
 
-###
 ---
-## 🧠 What I do
-<h3> 📚🗃️📝- Nível B2 em Inglês;</h3>
-<h3> 📚🗃️📝- Nível B1 em Alemão;</h3>
-<h3> 📚🗃️📝- Nível A2 em Russo;</h3>
+
+## 🧠 Skills & Knowledge  
+
+- ⚙️ **Programação Orientada a Objetos (POO)**  
+- 🔧 **Versionamento com Git & GitHub**  
+- 🗄️ **DTO e persistência em bancos de dados SQL e Relacionais**  
+- 🏗️ **Arquiteturas em camadas (MVC)**  
+- 🌐 **Padrões REST & RESTful APIs**  
+- 🛠️ **Testes unitários e integração (JUnit, Mockito)**  
+- 📦 **Gerenciamento de dependências (Maven, Gradle)**  
+- 🔒 **Conceitos de segurança em aplicações (JWT, OAuth2)**  
+- ☁️ **Noções de Cloud Computing (AWS, Docker)**  
+- 🔍 **Boas práticas de Clean Code & SOLID**  
+- 📊 **Modelagem de dados e normalização**  
 
 ---
 
