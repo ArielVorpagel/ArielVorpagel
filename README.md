@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com foco em back-end e aspirante a fullstack developer. Tenho interesse em construir soluções eficientes e escaláveis, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
+<p align="left">Sou formado em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web. Estudos voltados para back-end, e aspirante a fullstack developer. Tenho interesse em construir soluções eficientes e escaláveis, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
 
 ---
 
